@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">DevAppsProvaKotlin</string>
+    <string name="titulo">Quiz de Música!</string>
+    <string name="participante">Participante:</string>
+    <string name="edParticipante">Digite aqui seu nome...</string>
+    <string name="tituloPrimeiraPergunta">1º Pergunta</string>
+    <string name="primeiraPergunta">A música Anna Julia foi escrita por:</string>
+    <string name="primeiraResposta">Charlie Brown Jr</string>
+    <string name="segundaResposta">Los Hermanos</string>
+    <string name="titulosegundaPergunta">2º Pergunta</string>
+    <string name="segundaPergunta">Qual no nome da música - Eu tenho tanto pra lhe falar, Mas com palavras não sei
+        dizer, Como é grande o meu amor por você...
+    </string>
+    <string name="edsegundaResposta">Resposta</string>
+    <string name="tituloTerceiraPergunta">3º Pergunta</string>
+    <string name="terceiraPergunta">Complete a música: Não sei porque você se foi, quantas saudades eu senti...</string>
+    <string name="terceiraPerguntaCheck1">E de tristezas vou viver</string>
+    <string name="terceiraPerguntaCheck2">Chego a ter medo do futuro</string>
+    <string name="terceiraPerguntaCheck3">E aquele adeus não pude dar...</string>
+    <string name="tituloQuartaPergunta">4º Pergunta</string>
+    <string name="quartaPergunta">De quem é a música: Garota de Ipanema</string>
+    <string name="primeiraRespostaQuartaPergunta">Tom Jobim</string>
+    <string name="segundaRespostaQuartaPergunta">Caetano Veloso</string>
+    <string name="btClassificar">Classificar!</string>
+    <string name="btInicar">Iniciar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
